@@ -1,0 +1,19 @@
+Job description
+THE DIVISION’S STORY
+Named in honor of our leader’s favorite car, GTO comprises a wide range of operations, production and technology roles. We are responsible for the whole value chain of content. This is where we produce, broadcast and distribute content, manage media assets and run the tech infrastructure for the whole company. We live on the forefront of technology, nurturing new solutions in tech incubators before improving the user experience of our customers, consumers and colleagues. Interested in Big Data? AR? VR? Or another emerging technology. If your idea helps grow our business, we are eager to work with you to test and learn. Join us as we set the standard for our industry.
+THE ROLE: Director, Data Analytics & Integrations
+The Data Analytics team embodies this way of working by focusing on delivering state of the art business intelligence solutions throughout A+E. We architect, design, build and maintain multiple data warehouses to support different business units. We also constantly look and evaluate the current market to understand the best tools and embrace emerging trends. We like to tinker, figure things out, and most importantly get things done and have fun while we are doing it.
+More About What You’ll Do
+We want all members of the team to show up every day with a passion for their job and care that it gets done well. We will want you to partner with the business and fellow technologist to make sure we are delivering best-of-class solutions that can make a real impact on their day-to-day jobs. You should be able to work autonomously to manage your team and projects, while delivering on time and on budget. In addition to building and maintain our data ecosystem, you will be responsible for ensuring data governance, master data management, and providing a solid integration layer between all of applications.
+What You’ll Learn
+On our team, you'll have the opportunity to innovate and learn. You will learn. You will not be alone. You’ll have an opportunity to be exposed to the latest technologies in Big Data – whether it be Hadoop, Spark, Redshift, Snowflake, Tableau, or the latest AI-related software. Also, you’ll be able to seek out new technologies and implement them where they make sense. In addition, you’ll be able to manage a strong team of Engineers and Data Analysts that understand our business and are eager to push the envelope wherever possible. Finally, you’ll be exposed to a large variety of data that covers all the major areas of corporate measurement – Revenue, Cost, Viewership, and finally Asset Rights.
+Your Story
+3+ years working within Data Analytics, particularly in building and supporting large scale data warehouse solutions.
+5+ years managing a team of Engineers
+Experience in understanding and supporting BI/EDW Architecture, ETL Tools, front-end reporting tools like Tableau, and cloud platforms like AWS/Azure.
+Curiosity – constantly be looking for new technologies or solutions on the marketplace that innovate how we do things and provide new value to our business.
+Desire to make things better and get it done, whatever it may take.
+Ability to manage and projects and people, as well as the ability to influence and manage relationships where no direct line of report exists.
+Preferable – experience in the Cable Television industry
+That Something Extra
+If you’ve read this far, you’re likely a great fit for us…and maybe you’re fluent in sign language, have studied the circus arts or are currently writing a screenplay. If you have a special skill or backstory that might directly or indirectly help you succeed in this role, we’d love to hear about it in your cover letter.

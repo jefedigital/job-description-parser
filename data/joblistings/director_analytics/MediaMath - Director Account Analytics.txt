@@ -1,0 +1,27 @@
+Job description
+MediaMath’s strength is in numbers. Our technology analyzes 200 billion customer opportunities daily– more volume than the top 10 stock exchanges in the world, combined. Over 700 Mathletes in 16 global offices are trusted by two-thirds of the Fortune 500 and partner with thousands of marketers to ensure brands connect with right audiences, in the right place, in the right time.
+We believe consumers want to have meaningful conversations with their favorite and yet-to-be-discovered brands across all digital touchpoints. Our omnichannel, integrated programmatic platform unites digital media and big data to maximize the return on every marketing dollar spent by making advertising relevant, personalized, measurable and controllable.
+From inventing the DSP category in 2007 to being named a DMP Forrester Challenger (our first year participating in the DMP Wave!) in 2017, we continue to deliver results for marketers more quickly and accurately than any other solution. Technology is changing the way consumers interact with brands. Mathletes are powering that change.
+MediaMath’s Analytics team is currently seeking a Director with the knowledge, passion and capability to mine complex datasets, discover and deliver insights that drive value for our clients. The Analytics team delivers on MediaMath’s mission to provide clients and internal teams with a transparent perspective on how effectively their marketing dollars are being spent. They balance data-wizardry with personal charisma, drawing actionable insights that can work at scale. This team of statisticians, mathematicians, and programmers fulfills customers’ advanced analytics and reporting needs through custom reports and analyses, advanced statistical applications and interactive web dashboards to help clients effectively manage campaigns and optimize performance.
+This role will extend that value proposition to more custom, client-specific initiatives based on direction from our internal teams, stated client objectives and internal hypothesis. The ideal candidate has the appropriate blend of technical capabilities, business acumen and analytical skills to focus on the challenges of our biggest clients in North America.
+What You'll Do
+Develop a deep understanding of the MediaMath data collection process and architecture of databases
+Partner with the account and sales team to identify client’s analytical needs and present solutions
+Create materials (client facing and internal) that package and promote Analytics offerings.
+Provide support (in person and materials) for sales initiatives and RFIs/RFPs
+Design innovative and new and exciting reports and analyses and fully own projects from scope to execution
+Articulate results of data analysis to various internal groups, stakeholders and clients; translate technical results to a non-technical audience.
+Be fully autonomous and self-motivated in making processes as efficient as possible
+QA all of their own work in addition to reviewing their team member’s code to promote knowledge sharing
+Maintain a high level of pride in their own work, always looking to improve current processes and widen scope
+Manage a small team of analysts in region, providing mentorship and fostering a supportive environment
+What You'll Need
+Background
+5+ years of experience in the digital ad tech industry
+3+ years of experience working with large data sets or relational databases
+3+ years of experience managing a small team of analysts
+Bachelor Degree or higher, preferably with a concentration in a computation field such as Computer Science, Mathematics, Statistics, Physics, Engineering
+Skills
+Proficient knowledge of SQL, Python preferred
+Exposure to at least one big data technology, e.g. MapReduce, Hadoop, Hive, Spark, Pig, AWS/S3 preferred
+Excellent problem-solving capabilities and superior analytical skills
